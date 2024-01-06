@@ -1,5 +1,5 @@
 # StripCard
-# A Clone Version Of StripCard
+# A Better Version Of StripCard
 
 ## Highlight Features
 - Buy Virtual Credit Cards
