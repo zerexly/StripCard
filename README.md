@@ -1,5 +1,5 @@
 # StripCard
-# A Clone Version Of [StripCard](https://codecanyon.net/item/stripcard-virtual-credit-card-solution/47909310)
+# A Clone Version Of StripCard
 
 ## Highlight Features
 - Buy Virtual Credit Cards
